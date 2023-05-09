@@ -1,6 +1,6 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/comparacion-js-ts-tutorial/master/COMPARACION%20JS%20Y%20TS1.jpg)
+![Diferencias entre Javascript y Typescript Imagen 1](https://raw.githubusercontent.com/sergiecode/comparacion-js-ts-tutorial/master/COMPARACION%20JS%20Y%20TS1.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/comparacion-js-ts-tutorial/master/COMPARACION%20JS%20Y%20TS2.jpg)
+![Diferencias entre Javascript y Typescript Imagen 2](https://raw.githubusercontent.com/sergiecode/comparacion-js-ts-tutorial/master/COMPARACION%20JS%20Y%20TS2.jpg)
 
 # Comparación entre TypeScript y JavaScript
 
