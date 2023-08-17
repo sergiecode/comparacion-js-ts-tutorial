@@ -1,3 +1,6 @@
+Link al curso completo en Youtube:
+[TYPESCRIPT DESDE CERO POR SERGIE CODE](https://youtu.be/UTA5bykCx2c)
+
 ![Diferencias entre Javascript y Typescript Imagen 1](https://raw.githubusercontent.com/sergiecode/comparacion-js-ts-tutorial/master/COMPARACION%20JS%20Y%20TS1.jpg)
 
 ![Diferencias entre Javascript y Typescript Imagen 2](https://raw.githubusercontent.com/sergiecode/comparacion-js-ts-tutorial/master/COMPARACION%20JS%20Y%20TS2.jpg)
